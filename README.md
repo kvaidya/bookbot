@@ -1,1 +1,1 @@
-Sample project for personal test projects
+BookBot is my first project!
